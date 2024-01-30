@@ -1,0 +1,2 @@
+# mycode
+zephyr template project
